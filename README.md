@@ -6,18 +6,20 @@ Manipulation et visualization de données d'ICEWS (World-Wide Integrated Crisis 
 
 Données complètes: south-china-sea.csv
 
+Visualization des données complètes: https://danielrubinstein.github.io/South-China-Sea-Visualization/
+
 >Fichier CSV:
 >
-># headers:
-># src_ccode    source country COW code (China, HK, Macao together)
-># src_name             source country name (China, HK, Macao seperate)
-># tgt_ccode    target country COW code (China, HK, Macao together)
-># tgt_name             target country name (China, HK, Macao seperate)
-># date                         year-month
-># verbal               1=verbal,      0=material
-># cooperation  1=cooperation, 0=conflict
-># count         number of events in directed-dyad-month-quad tuple
-># evt_ccode     COW code for country in which event occured
+>headers:
+> src_ccode    source country COW code (China, HK, Macao together)
+> src_name             source country name (China, HK, Macao seperate)
+> tgt_ccode    target country COW code (China, HK, Macao together)
+> tgt_name             target country name (China, HK, Macao seperate)
+> date                         year-month
+> verbal               1=verbal,      0=material
+> cooperation  1=cooperation, 0=conflict
+> count         number of events in directed-dyad-month-quad tuple
+> evt_ccode     COW code for country in which event occured
 >
 
 
