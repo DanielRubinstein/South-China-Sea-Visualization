@@ -2,11 +2,13 @@
 
 Manipulation et visualization de données d'ICEWS (World-Wide Integrated Crisis Early Warning System).
 
-(Requête SQL faite directement par Michael Ward, co-créateur d'ICEWS.)
+Données complètes: south-china-sea.csv (Requête SQL faite directement par un des créateurs de la base de données à Duke.)
 
-Données complètes: south-china-sea.csv
+Toutes les 14000 entrées: https://danielrubinstein.github.io/South-China-Sea-Visualization/
 
-Visualization des données complètes: https://danielrubinstein.github.io/South-China-Sea-Visualization/
+Différents csv dans CLEANED_DATA pour obtenir d'autres résultats.
+
+Egalement Csv dans CLEANED_DATA générées à partir du script python getCounts pour voir le résumé des intéractions d'un seul pays avec tous les autres pays pendant une certaine intervalle de temps.
 
 >##Fichier CSV:
 >
