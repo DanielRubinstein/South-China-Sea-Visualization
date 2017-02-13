@@ -6,9 +6,9 @@ Données complètes: south-china-sea.csv (Requête SQL faite directement par un 
 
 Toutes les 14000 entrées: https://danielrubinstein.github.io/South-China-Sea-Visualization/
 
-Différents csv dans CLEANED_DATA pour obtenir d'autres résultats.
+Différents csv dans CLEANED_DATA pour obtenir d'autres résultats (autres catégories, dates, mesures...).
 
-Egalement Csv dans CLEANED_DATA générées à partir du script python getCounts pour voir le résumé des intéractions d'un seul pays avec tous les autres pays pendant une certaine intervalle de temps.
+Egalement Csv dans CLEANED_DATA générées à partir du script python getCounts pour voir le résumé des intéractions d'un seul pays avec tous les autres pays pendant un certain intervalle de temps.
 
 >##Fichier CSV:
 >
