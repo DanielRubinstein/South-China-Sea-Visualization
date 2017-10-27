@@ -1,16 +1,12 @@
 # South-China-Sea-Visualization
 
-Manipulation et visualization de données d'ICEWS (World-Wide Integrated Crisis Early Warning System).
+Worked with data from ICEWS (World-Wide Integrated Crisis Early Warning System).
 
-Données complètes: south-china-sea.csv (Requête SQL faite directement par un des créateurs de la base de données à Duke.)
+Full data: south-china-sea.csv 
 
-Toutes les 14000 entrées: https://danielrubinstein.github.io/South-China-Sea-Visualization/
+Visualization of all 14000 entries: https://danielrubinstein.github.io/South-China-Sea-Visualization/
 
-Différents csv dans CLEANED_DATA pour obtenir d'autres résultats (autres catégories, dates, mesures...).
 
-Egalement Csv dans CLEANED_DATA générées à partir du script python getCounts pour voir le résumé des intéractions d'un seul pays avec tous les autres pays pendant un certain intervalle de temps.
-
->##Fichier CSV:
 >
 >##headers:
 > ###src_ccode:    source country COW code (China, HK, Macao together)
@@ -25,7 +21,7 @@ Egalement Csv dans CLEANED_DATA générées à partir du script python getCounts
 >
 
 
-Description de ICEWS:
+Description of ICEWS:
 "International Crisis Early Warning System, the ICEWS project, which the U.S. government
 established to analyze political instability around the world and provide relevant policy advice.
 Funded by the Defense Advanced Research Projects Agency and the Office of Naval
